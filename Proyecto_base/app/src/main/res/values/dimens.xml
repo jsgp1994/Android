@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="edit_text_size_login">22sp</dimen>
+    <dimen name="activity_horizontal_login">32dp</dimen>
+    <dimen name="text_size_not_have_account">16sp</dimen>
+    <dimen name="activity_vertical_margin">20dp</dimen>
+    <dimen name="edit_text_margin_create_account">10dp</dimen>
+    <dimen name="height_card_view">200dp</dimen>
+    <dimen name="corner_radius_card_view">4dp</dimen>
+    <dimen name="text_size_user_name_card">25sp</dimen>
+    <dimen name="first_word_text_size">15sp</dimen>
+    <dimen name="time_card_margin_left_card">5dp</dimen>
+    <dimen name="like_margin_top_card">10dp</dimen>
+    <dimen name="bottom_navigation_view">70dp</dimen>
+    <dimen name="activity_horizontal_margin">15dp</dimen>
+    <dimen name="navigation_height">60dp</dimen>
+</resources>

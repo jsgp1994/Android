@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HolaMundo</string>
+    <string name="tv_personal_info">Escribe tus datos</string>
+    <string name="name">Nombre</string>
+    <string name="send">Enviar</string>
+</resources>
