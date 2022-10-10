@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">app notas</string>
+    <string name="txt_view_String">Verificar Notas</string>
+    <string name="txt_matematicas">Matematicas</string>
+    <string name="txt_fisica">Fisica</string>
+    <string name="txt_quimica">Quimica</string>
+    <string name="txt_evaluar">Evaluar</string>
+    <string name="txt_limpiar">Limpiar</string>
 </resources>

@@ -12,14 +12,14 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="30dp"
         android:layout_marginTop="30dp"
-        android:text="Verificar Notas"
+        android:text="@string/txt_view_String"
         android:textSize="34sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
     <EditText
         android:id="@+id/txt_matematicas"
-        android:hint="Matematicas"
+        android:hint="@string/txt_matematicas"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="30dp"
@@ -31,7 +31,7 @@
 
     <EditText
         android:id="@+id/txt_fisica"
-        android:hint="Fisica"
+        android:hint="@string/txt_fisica"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="30dp"
@@ -43,7 +43,7 @@
 
     <EditText
         android:id="@+id/txt_quimica"
-        android:hint="Quimica"
+        android:hint="@string/txt_quimica"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="30dp"
@@ -59,7 +59,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="30dp"
         android:layout_marginTop="20dp"
-        android:text="Evaluar"
+        android:text="@string/txt_evaluar"
         android:onClick="status_approved"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/txt_quimica" />
@@ -70,7 +70,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="12dp"
         android:layout_marginTop="20dp"
-        android:text="Limpiar"
+        android:text="@string/txt_limpiar"
         android:onClick="_clear"
         app:layout_constraintStart_toEndOf="@+id/button"
         app:layout_constraintTop_toBottomOf="@+id/txt_quimica" />
